@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Highlander.h
+Warrior.h
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Warrior.h
+
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Swordsman.h
+Warrior.h
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Warrior.h
+
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Viking.h
+Warrior.h
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Warrior.h
+
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Warrior.h
+
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/main.cpp
+iostream
+-
+Viking.h
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Viking.h
+Swordsman.h
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Swordsman.h
+Highlander.h
+/Users/hugo/Documents/Ynov/Ynov B3/C++/exercice1/Highlander.h
+
